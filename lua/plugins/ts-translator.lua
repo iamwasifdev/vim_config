@@ -2,9 +2,7 @@ return {
   {
     "youyoumu/pretty-ts-errors.nvim",
     opts = {
-
-      auto_show="false",
-      open_in = "float", -- popup instead of split
+      auto_open = false,
     },
   },
 

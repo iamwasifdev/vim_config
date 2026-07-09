@@ -1,9 +1,10 @@
 return {
-  "saghen/blink.cmp",
-  version = "1.*",
-  opts = {
-    fuzzy = {
-      implementation = "lua",
+  {
+    "saghen/blink.cmp",
+    opts = {
+      fuzzy = {
+        implementation = "lua",
+      },
     },
   },
 }

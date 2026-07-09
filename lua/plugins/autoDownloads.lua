@@ -11,6 +11,10 @@ return {
         "clangd",
         "eslint-lsp",
 
+        -- Debug adapters
+        "codelldb",
+        "js-debug-adapter",
+
         -- Formatters
         "prettier",
       },
